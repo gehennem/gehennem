@@ -1,7 +1,7 @@
-- 👋 Sal', me estas @gehennem
-- 👀 Mi interesighas pri esperanto, python, rust,  energy saving  programming     
+- 👋 Sal', mi estas @gehennem
+- 👀 Mi interesighas pri esperanto, python, rust,  energy saving programming     
 - 🌱 Mi lernas esperanto, python, rust 
-- 💞️ Me shatas partopreni en projectoj rilate lingvaj rajtoj
+- 💞️ Me ŝatas partopreni en projektoj rilate lingvajn rajtojn
 - 📫 Kiel atingi min;  gh@e-d-e.eu
 
 <!---
